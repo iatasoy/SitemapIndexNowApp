@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SitemapIndexNowApp": {
+      "commandName": "Project",
+      "commandLineArgs": "example.com.json"
+    }
+  }
+}

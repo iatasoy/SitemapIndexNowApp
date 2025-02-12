@@ -1,0 +1,14 @@
+{
+  "ConnectionString": "Server=localhost;Database=database;User Id=username;Password=password;",
+  "PageSize": 1000,
+  "IndexNowId": 1,
+  "Host": "www.example.com",
+  "ApiKey": "24c4d7a83f1d0e7617511360e761751136",
+  "KeyLocation": "https://www.example.com/24c4d7a83f1d0e7617511360e761751136.txt",
+  "SleepTime": 10000,
+  "IndexNowEndpoints": {
+    "Yandex": "https://www.yandex.com/IndexNow",
+    "IndexNow": "https://api.indexnow.org/IndexNow",
+    "Bing": "https://www.bing.com/indexnow"
+  }
+}
