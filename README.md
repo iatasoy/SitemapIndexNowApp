@@ -3,6 +3,8 @@
 ## Overview
 SitemapIndexNowApp is a C# application that retrieves sitemaps from a MySQL database and submits them to search engines via the IndexNow protocol. This helps search engines efficiently update indexed content for better visibility.
 
+https://medium.com/@iskenderatasoy/indexnow-automate-your-search-engine-url-submissions-c1847381df5d for more detail.
+
 ## Database Initialization
 To set up the MySQL database, execute the following SQL commands:
 
