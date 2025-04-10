@@ -1,4 +1,4 @@
-# SitemapIndexNowApp
+# SitemapIndexNowApp-Branch
 
 ## Overview
 SitemapIndexNowApp is a C# application that retrieves sitemaps from a MySQL database and submits them to search engines via the IndexNow protocol. This helps search engines efficiently update indexed content for better visibility.
